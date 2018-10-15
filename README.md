@@ -42,6 +42,11 @@ Security
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
+We ask for Device Permmisions :
+Camera and Audio - post new stories to share with your friends of with our community
+Get Accounts - requested for enabling automatic detection of user primary email for signup with typing it
+
+
 Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
